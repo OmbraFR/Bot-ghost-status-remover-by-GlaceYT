@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Official Bot OctopusGang","💻 | developed By Ombrq & EvilMain"];
 
 
 let currentIndex = 0;
